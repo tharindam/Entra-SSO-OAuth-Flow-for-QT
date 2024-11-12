@@ -1,0 +1,1 @@
+# Entra-SSO-OAuth-Flow-for-QT
